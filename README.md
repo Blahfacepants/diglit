@@ -1,0 +1,2 @@
+# diglit
+Digital Literature Project
